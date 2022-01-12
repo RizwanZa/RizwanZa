@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @RizwanZa
-- 👀 I’m interested in Backend Development
+- 👋 Hi, I’m @RizwanZafar
+- 👀 I’m interested in Backend Development.
 - 🌱 I’m currently learning Node js
 - 💞️ 
 - 
